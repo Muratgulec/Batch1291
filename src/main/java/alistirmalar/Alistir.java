@@ -46,9 +46,16 @@ public class Alistir {
             System.out.println("ilk karakter harf olmali");
         }
 
-       
+        for (int i = 100; i >=50; i--) {
+            if (i>50){
+                System.out.println(i);
+            }
+
 
         }
+
+        }
+
 
 
     }

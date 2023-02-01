@@ -6,7 +6,7 @@ public class ForLoop05 {
 
         /*
             Example 1: Asagidaki ciktiyi verecek kodu yaziniz
-                        Week: 1
+                        week: 1
                           Day: 1
                           Day: 2
                           Day: 3
@@ -27,6 +27,7 @@ public class ForLoop05 {
             }
 
         }
+
 
     }
 
